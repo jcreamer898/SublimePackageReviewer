@@ -1,0 +1,13 @@
+{
+  "name": "sublimepackgereviewer",
+  "dependencies": {
+    "requirejs": "~2.1.5",
+    "jquery": "~2.0.2",
+    "qunit": "~1.11.0",
+    "backbone": "~1.0.0",
+    "underscore": "~1.4.4"
+  },
+  "devDependencies": {
+    "jquery-mockjax": "~1.5.2"
+  }
+}
