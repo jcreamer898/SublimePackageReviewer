@@ -66,3 +66,5 @@ If you're using a webserver like apache or nginx, you'll want
 to create a redirect from `/components/requirejs/require.js` to
 `/dist/require.js`. (*Note: this is exactly what `grunt
 preview-live` does*)
+
+[Back to top](#getting-started)
